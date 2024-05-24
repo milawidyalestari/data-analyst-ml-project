@@ -7,4 +7,6 @@ Stay connected by following my instagram: [@milaalestari_](https://www.instagram
 
 Hi! This Repo Is Full Of My Data Analytics Project
 
-Throughout my experience with many data analytics project, i've gained valuable insights into the power of data-driven decision making. I've come to understand the role of from collecting data into vizualization reavealing trends and pattern that using many data and make important decision to business. From queryng raw data using SQL to proccessing data in Python and making dashboard using Power BI translating complex data into actionable insights for strategic decision-making. Proven expertise in data analysis techniques, dashboard creation and data story telling.
+Throughout my experience with data analytics project, I've discovered the incredible power of using data to make informed decisions. From diving into raw data using SQL to working with Python and creating visually stunning dashboards with Power BI, I've learned how to turn complex data into actionable insights. I'm passionate about using data analysis techniques to tell compelling stories with data and help drive strategic decision-making. Let's harness the power of data together!
+
+Best Regards, Mila
