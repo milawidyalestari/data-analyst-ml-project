@@ -9,4 +9,6 @@ Hi! This Repo Is Full Of My Data Analytics Project
 
 Throughout my experience with data analytics project, I've discovered the incredible power of using data to make informed decisions. From diving into raw data using SQL to working with Python and creating visually stunning dashboards with Power BI, I've learned how to turn complex data into actionable insights. I'm passionate about using data analysis techniques to tell compelling stories with data and help drive strategic decision-making. Let's harness the power of data together!
 
+Feel free to explore another branch to check out my latest work.
+
 Best Regards, Mila
