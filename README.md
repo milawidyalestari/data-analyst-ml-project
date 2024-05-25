@@ -39,3 +39,5 @@ This project consists of three stages:
 - 'City' — User's city of origin
 - 'time' — Time the song was played
 - 'Day' — Day of the week
+
+Stay connected by following my instagram: [@milaalestari_](https://www.instagram.com/milaalestari_/)
