@@ -30,9 +30,10 @@ We will test four hypotheses:
 
 The customer data is stored in two different file paths: `'/datasets/credit_scoring_eng.csv'` for the internal file path, and [`'credit_scoring_eng.csv'`](https://raw.githubusercontent.com/milawidyalestari/data-analyst-ml-project/project2-borrower-default-risk/credit_scoring_eng.csv) for the external file path. The quality of the data is not yet known, so we will first review the dataset. Then, we will perform data preprocessing. After completing these steps, we will test our hypotheses.
 
-Stay connected by following my instagram: [@milaalestari_](https://www.instagram.com/milaalestari_/)
 
 This project will be divided into three stages:
 1. Data Review
 2. Data Preprocessing
 3. Hypothesis Testing
+
+Stay connected by following my instagram: [@milaalestari_](https://www.instagram.com/milaalestari_/)
