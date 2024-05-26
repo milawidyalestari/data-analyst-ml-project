@@ -1,14 +1,27 @@
+# Factor for Crankshaft List Price
 ## by _Mila Widya Lestari_
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-Stay connected by following my instagram: [@milaalestari_](https://www.instagram.com/milaalestari_/)
+## Features
+> Hundreds of free vehicle ads are posted on the company's website every day.
+> Well, we've been tasked with studying the data that has been collected over the past few years to determine the factors that influence the price of a vehicle.
 
-Hi! This Repo Is Full Of My Data Analytics Project
+# What sells a car?
+Crankshaft List is a company engaged in vehicle advertising. This analysis report is made to find out the factors that affect the price of a vehicle advertised on the company's website. At least with this report, it can be used to create strategies to improve sales performance on the website.
 
-Throughout my experience with data analytics project, I've discovered the incredible power of using data to make informed decisions. From diving into raw data using SQL to working with Python and creating visually stunning dashboards with Power BI, I've learned how to turn complex data into actionable insights. I'm passionate about using data analysis techniques to tell compelling stories with data and help drive strategic decision-making. Let's harness the power of data together!
+In this report, there are 4 main stages carried out, namely:
 
-Feel free to explore another branch to check out my latest work.
+1. Data Preparing
+2. Data Cleansing
+3. Analyze Data
+4. Data Interpretation
 
-Best Regards, Mila
+## Pre-processing <a id='pre_proscess'></a>
+The very first stage in data processing is loading the required libraries. This time we will use 4 libraries, namely:
+
+* Pandas: Data analysis, table manipulation.
+* NumPy: Multidimensional array operations.
+* Matplotlib: Data visualization, plot graphs.
+* Seaborn: Data visualization, high-level statistics.
