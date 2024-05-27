@@ -5,7 +5,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 ## Features
-> #### Table users (user data):
+> ### Table users (user data):
 > * user_id — user ID
 > * first_name — user's first name
 > * last_name — user's last name
@@ -15,24 +15,24 @@
 > * city — user's city of residence
 > * plan — name of the plan
 >   
-> #### Table calls (call data):
+> ### Table calls (call data):
 > * id — unique call ID
 > * call_date — call date
 > * duration — call duration (in minutes)
 > * user_id — user ID who made the call
 > 
-> #### Table messages (SMS data):
+> ### Table messages (SMS data):
 > * id — unique SMS ID
 > * message_date — message date
 > * user_id — user ID who sent the SMS
 >   
-> #### Table internet (web session data):
+> ### Table internet (web session data):
 > * id — unique web session ID
 > * mb_used — data volume used during the session (in megabytes)
 > * session_date — session date
 > * user_id — user ID
 >
-> #### Table plans (phone plan data):
+> ### Table plans (phone plan data):
 > * plan_name — plan name
 > * usd_monthly_fee — monthly fee in US dollars
 > * minutes_included — monthly call minutes allocation
