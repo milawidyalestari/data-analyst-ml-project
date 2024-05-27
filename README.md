@@ -49,20 +49,20 @@
 > However, the total for the month is rounded up. If a user consumes 1025 megabytes this month, they will be charged for 2 gigabytes.
 > 
 > #### Surf
-> Monthly fee: $20 \n
-> 500 minutes of call duration per month, 50 SMS, and 15 GB data \n
-> After exceeding the package limits, the following charges apply: \n
-> 1 minute: 3 cents \n
-> 1 SMS: 3 cents \n
-> 1 GB data: $10 \n
+> - Monthly fee: $20    
+> - 500 minutes of call duration per month, 50 SMS, and 15 GB data    
+> - After exceeding the package limits, the following charges apply:    
+> - 1 minute: 3 cents    
+> - 1 SMS: 3 cents     
+> - 1 GB data: $10    
 > 
-> #### Ultimate \n
-> Monthly fee: $70 \n
-> 3000 minutes of call duration per month, 1000 SMS, and 30 GB data \n
-> After exceeding the package limits, the following charges apply: \n
-> 1 minute: 1 cent \n
-> 1 SMS: 1 cent \n
-> 1 GB data: $7 \n
+> #### Ultimate    
+> - Monthly fee: $70    
+> - 3000 minutes of call duration per month, 1000 SMS, and 30 GB data    
+> - After exceeding the package limits, the following charges apply:    
+> - 1 minute: 1 cent     
+> - 1 SMS: 1 cent
+> - 1 GB data: $7    
 
 ### Introduction
 Megaline company operates in the telecommunications sector. Megaline offers clients two types of prepaid packages: the Surf package and the Ultimate package. This report is aimed at the advertising department, which wants to determine which package is more profitable so they can allocate their advertising budget accordingly.
