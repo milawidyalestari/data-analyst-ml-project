@@ -42,8 +42,7 @@
 > * usd_per_message — price per SMS if exceeding the plan allocation
 > * usd_per_gb — price per additional gigabyte of data if exceeding the plan allocation (1 GB = 1024 megabytes)
 >
-> 
-> ### Prepaid plan description
+> ## Prepaid plan description
 > Note: Megaline rounds seconds up to minutes and megabytes up to gigabytes. For calls, each individual call is rounded up: even if a call lasts just one second,
 > it will be counted as one minute. For web traffic, each individual web session is not rounded up.
 > However, the total for the month is rounded up. If a user consumes 1025 megabytes this month, they will be charged for 2 gigabytes.
