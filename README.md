@@ -20,9 +20,9 @@
 
 ## Project Description
 **Scenario:**
-You work at an online store called "Ice" that sells video games from around the world. Data related to user and expert reviews, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data are available from open sources. You need to identify patterns that determine whether a game can be considered successful or not. By doing so, you can find the most potential games and plan their advertising campaigns.
+We work at an online store called "Ice" that sells video games from around the world. Data related to user and expert reviews, genres, platforms (e.g., Xbox or PlayStation), and historical game sales data are available from open sources. We need to identify patterns that determine whether a game can be considered successful or not. By doing so, we can find the most potential games and plan their advertising campaigns.
 
-In front of you is data from 2016. Imagine that it is now December 2016, and you are planning a campaign for 2017.
+we have data from 2016. Imagine that it is now December 2016, and we are planning a campaign for 2017.
 
 ## Goals
 Studying trends and patterns to evaluate the performance of a game is essential for recognizing games with high potential and devising impactful marketing strategies
